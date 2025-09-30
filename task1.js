@@ -14,7 +14,7 @@ const biography = {
     education: {
         current: {
             degree: "Bachelor in Computer Science",
-            institution: "FAST University",
+            institution: "Air University",
             year: 2025
         },
         interests: ["Programming", "Web Development", "AI/ML"]
