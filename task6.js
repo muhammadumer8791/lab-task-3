@@ -8,5 +8,4 @@ function sumOfMultiples(x, y, z) {
     return sum;
 }
 
-// Using student ID-inspired numbers
-console.log(sumOfMultiples(4, 7, 20)); // Sum of multiples of 4 or 7 below 20
+console.log(sumOfMultiples(4, 7, 20));
